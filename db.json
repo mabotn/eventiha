@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Mohamed Anas",
+      "lastname": "Ben Othman",
+      "email": "mabo.tn@outlook.com",
+      "password": "Bonjour123!!"
+    },
+    {
+      "firstname": "Test",
+      "lastname": "Tester",
+      "email": "test@testing.com",
+      "password": "testtest",
+      "id": 2
+    },
+    {
+      "firstname": "Chaima",
+      "lastname": "Aissa",
+      "email": "chaima@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Pizza Party",
+      "date": "2020-01-01",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Dance Party",
+      "date": "2020-01-04",
+      "userId": 1
+    }
+  ]
+}
